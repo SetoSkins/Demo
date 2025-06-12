@@ -2,7 +2,7 @@
   "android": {
     "version": "1.0.0",
     "code": 2,
-    "url": "https://play.google.com/store/apps/details?id=your.package",
+    "url": "https://www.google.com/?hl=zh_TW",
     "notes": "初始版本",
     "force_update": false
   }
