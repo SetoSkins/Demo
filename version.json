@@ -1,9 +1,9 @@
 {
   "android": {
     "version": "1.1.0",
-    "code": 101,  // 必须比当前版本号大才会显示更新
+    "code": 101,
     "url": "https://play.google.com/store/apps/details?id=your.package",
-    "notes": "初始版本",  // 这里添加了缺失的逗号
+    "notes": "初始版本",
     "force_update": false
   }
 }
