@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "code": 100,
     "url": "https://play.google.com/store/apps/details?id=your.package",
-    "notes": "初始版本",
+    "notes": "初始版本"
     "force_update": false
-  },
+  }
+}
